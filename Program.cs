@@ -5,6 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+
         long x = 0;
         long y = 1;
         Console.WriteLine("Wpisz ilość wyników:");
